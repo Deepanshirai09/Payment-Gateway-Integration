@@ -49,7 +49,7 @@ body{
     position: absolute;
     height: 100%;
     width: 100%;
-    background: url('images_d/tsf_about.jpg');
+    background: url('tsf_about.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
